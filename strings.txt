@@ -1,3 +1,13 @@
+Samsung 5 Pro|Samsung|{density=3.21, width=1440, height=2560}
+Google 3 Lite|Google|{density=2.75, width=1080, height=2240}
+OnePlus 9 Max|OnePlus|{density=3.85, width=1920, height=3000}
+Sony 2 Mini|Sony|{density=2.95, width=1280, height=2400}
+Vivo 7 Ultra|Vivo|{density=3.42, width=1600, height=2800}
+Xiaomi 10 Plus|Xiaomi|{density=3.67, width=1800, height=3200}
+Huawei 8 Pro|Huawei|{density=3.11, width=1360, height=2480}
+Nokia 4 Lite|Nokia|{density=2.82, width=1200, height=2200}
+Oppo 6 Max|Oppo|{density=3.58, width=1520, height=2720}
+ASUS 9 Prime|ASUS|{density=3.29, width=1680, height=2960}
 Pixel 4|Google|{density=2.75,width=1080,height=2280}
 Galaxy S21|Samsung|{density=3.0,width=1080,height=2400}
 OnePlus 9|OnePlus|{density=2.84,width=1080,height=2400}
