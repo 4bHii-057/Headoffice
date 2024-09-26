@@ -1,3 +1,24 @@
+Galaxy S21 | Samsung | {density=3.0, width=1080, height=2400}
+OnePlus 9 | OnePlus | {density=2.84, width=1080, height=2400}
+Xperia 1 II | Sony | {density=3.0, width=1644, height=3840}
+V25 Pro | Vivo | {density=3.0, width=1080, height=2376}
+Redmi Note 10 | Xiaomi | {density=2.75, width=1080, height=2400}
+Mate 40 Pro | Huawei | {density=4.0, width=1344, height=2772}
+Nokia 8.3 | Nokia | {density=3.0, width=1080, height=2400}
+Oppo Find X3 | Oppo | {density=3.0, width=1440, height=3216}
+ASUS ROG Phone 5 | ASUS | {density=3.0, width=1080, height=2448}
+V25 | Vivo | {density=3.0, width=1080, height=2404}
+V25e | Vivo | {density=3.0, width=1080, height=2404}
+Google Pixel 6 | Google | {density= 3.0, width=1080, height=2244}
+LG G8X | LG | {density=3.0, width=1080, height=2460}
+Motorola One Fusion+ | Motorola | {density=3.0, width=1080, height=2460}
+Samsung Galaxy A52 | Samsung | {density=3.0, width=1080, height=2400}
+Xiaomi Poco X4 | Xiaomi | {density=2.75, width=1080, height=2400}
+Oppo Reno Ace 2 | Oppo | {density=3.0, width=1080, height=2400}
+Vivo V21 | Vivo | {density=3.0, width=1080, height=2400}
+Huawei P30 Pro | Huawei | {density=4.0, width=1080, height=2244}
+Sony Xperia 10 III | Sony | {density=3.0, width=1080, height=2520}
+Nokia 5.4 | Nokia | {density=3.0, width=720, height=1600}
 Samsung 5 Pro|Samsung|{density=3.21, width=1440, height=2560}
 Google 3 Lite|Google|{density=2.75, width=1080, height=2240}
 OnePlus 9 Max|OnePlus|{density=3.85, width=1920, height=3000}
