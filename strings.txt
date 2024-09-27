@@ -1,3 +1,13 @@
+Galaxy S14 | Samsung | {density=2.4, width=840, height=1920}
+Galaxy Note20 | Samsung | {density=1.8, width=720, height=1560}
+Galaxy S7 | Samsung | {density=2.1, width=900, height=1800}
+Galaxy Note12 | Samsung | {density=1.5, width=480, height=1680}
+Galaxy S25 | Samsung | {density=2.7, width=1020, height=1980}
+Galaxy Note18 | Samsung | {density=1.2, width=600, height=1620}
+Galaxy S10 | Samsung | {density=2.5, width=960, height=1940}
+Galaxy Note22 | Samsung | {density=1.9, width=780, height=1860}
+Galaxy S16 | Samsung | {density=2.3, width=900, height=1900}
+Galaxy Note15 | Samsung | {density=1.6, width=660, height=1740}
 Galaxy S21 | Samsung | {density=3.0, width=1080, height=2400}
 OnePlus 9 | OnePlus | {density=2.84, width=1080, height=2400}
 Xperia 1 II | Sony | {density=3.0, width=1644, height=3840}
