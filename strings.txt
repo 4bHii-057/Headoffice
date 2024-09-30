@@ -1,3 +1,11 @@
+OnePlus Find51 | Android | {density=2.2, width=917, height=1319}
+Vivo Mate28 | Android | {density=1.4, width=419, height=739}
+Realme Note67 | Android | {density=2.8, width=1139, height=1499}
+Huawei P85 | Android | {density=1.6, width=639, height=939}
+Samsung Galaxy41 | Android | {density=2.0, width=859, height=1239}
+Google Redmi19 | Android | {density=2.6, width=1039, height=1459}
+Oppo S53 | Android | {density=1.3, width=359, height=659}
+Xiaomi A71 | Android | {density=2.4, width=959, height=1399}
 Huawei Mate77 | Android | {density=2.2, width=1080, height=661}
 Huawei A90 | Android | {density=1.2, width=340, height=776}
 Oppo Note95 | Android | {density=1.3, width=388, height=940}
