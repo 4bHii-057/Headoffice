@@ -1,3 +1,13 @@
+Sony X5 | Android | {density=2.5, width=1024, height=1536}
+HTC Max8 | Android | {density=2.0, width=1080, height=1600}
+Asus Pro3 | Android | {density=1.5, width=960, height=1440}
+Lenovo A9 | Android | {density=2.2, width=1200, height=1600}
+ZTE Blade7 | Android | {density=3.0, width=800, height=1280}
+TCL Plex5 | Android | {density=2.0, width=1024, height=1536}
+Alcatel Idol4 | Android | {density=2.5, width=1080, height=1600}
+Blackberry Key2 | Android | {density=1.5, width=960, height=1440}
+Oppo RenoAce2 | Android | {density=2.2, width=1200, height=1600}
+Vivo V21 | Android | {density=3.0, width=800, height=1280}
 OnePlus Find51 | Android | {density=2.2, width=917, height=1319}
 Vivo Mate28 | Android | {density=1.4, width=419, height=739}
 Realme Note67 | Android | {density=2.8, width=1139, height=1499}
