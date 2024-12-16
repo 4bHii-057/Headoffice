@@ -1,3 +1,10 @@
+Vivo Note5 | Android | {density=2.0, width=968, height=1328}
+Asus Lite4 | Android | {density=2.2, width=901, height=1578}
+Samsung Galaxy S21 | Android | {density=3.0, width=1080, height=2400}
+Google Pixel 5 | Android | {density=2.75, width=1080, height=2340}
+OnePlus 9 | Android | {density=2.8, width=1080, height=2400}
+Xiaomi Mi 11 | Android | {density=2.75, width=1440, height=3200}
+Oppo Find X3 | Android | {density=2.5, width=1440, height=3216}
 Motorola V9 | Android | {density=3.0, width=991, height=1265}
 TCL Note2 | Android | {density=2.5, width=1109, height=1542}
 Blackberry Note5 | Android | {density=2.5, width=1032, height=1546}
