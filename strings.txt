@@ -1,4 +1,3 @@
-Vivo Note5 | Android | {density=2.0, width=968, height=1328}
 Asus Lite4 | Android | {density=2.2, width=901, height=1578}
 Samsung Galaxy S21 | Android | {density=3.0, width=1080, height=2400}
 Google Pixel 5 | Android | {density=2.75, width=1080, height=2340}
