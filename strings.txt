@@ -1,3 +1,27 @@
+Samsung Galaxy S22 | Android | {density=3.0, width=1080, height=2400}
+Xiaomi Redmi Note 11 | Android | {density=2.5, width=1080, height=2400}
+Google Pixel 7 | Android | {density=2.8, width=1080, height=2400}
+OnePlus 10 Pro | Android | {density=2.9, width=1440, height=3216}
+Sony Xperia 1 III | Android | {density=3.0, width=1644, height=3840}
+Nokia G50 | Android | {density=2.5, width=720, height=1600}
+Huawei Mate 40 Pro | Android | {density=2.9, width=1344, height=2772}
+Vivo X70 Pro | Android | {density=2.8, width=1080, height=2400}
+Oppo Find X5 | Android | {density=2.7, width=1080, height=2400}
+Realme GT Master Edition | Android | {density=2.5, width=1080, height=2400}
+Asus Zenfone 8 | Android | {density=3.0, width=1080, height=2400}
+Motorola Moto G Power (2022) | Android | {density=2.5, width=720, height=1600}
+TCL 20 Pro 5G | Android | {density=2.5, width=1080, height=2400}
+Honor 50 | Android | {density=2.75, width=1080, height=2400}
+ZTE Blade V30 | Android | {density=2.5, width=720, height=1560}
+Blackberry Key2 | Android | {density=2.5, width=1080, height=1620}
+Xiaomi Mi 11 Lite | Android | {density=2.5, width=1080, height=2400}
+Samsung Galaxy A52 | Android | {density=2.75, width=1080, height=2400}
+Google Pixel 6a | Android | {density=2.6, width=1080, height=2400}
+OnePlus Nord 2 | Android | {density=2.8, width=1080, height=2400}
+Vivo V21 | Android | {density=2.5, width=1080, height=2400}
+Oppo Reno 6 | Android | {density=2.7, width=1080, height=2400}
+Motorola Edge 20 | Android | {density=2.9, width=1080, height=2400}
+Realme 8 Pro | Android | {density=2.5, width=1080, height=2400}
 Asus Lite4 | Android | {density=2.2, width=901, height=1578}
 Samsung Galaxy S21 | Android | {density=3.0, width=1080, height=2400}
 Google Pixel 5 | Android | {density=2.75, width=1080, height=2340}
