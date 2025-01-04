@@ -1,3 +1,22 @@
+Samsung Galaxy S10 | Android | {density=3.0, width=1440, height=3040}
+Google Pixel 5 | Android | {density=2.7, width=1080, height=2340}
+OnePlus 8T | Android | {density=2.9, width=1080, height=2400}
+Xiaomi Mi 10 | Android | {density=2.8, width=1080, height=2340}
+Sony Xperia XZ2 | Android | {density=3.0, width=1080, height=2160}
+Nokia 7.2 | Android | {density=2.5, width=1080, height=2280}
+LG G6 | Android | {density=3.0, width=1440, height=2880}
+HTC U11 | Android | {density=3.0, width=1440, height=2560}
+Motorola Moto G Power (2021) | Android | {density=2.5, width=720, height=1600}
+Samsung Galaxy Note 9 | Android | {density=3.0, width=1440, height=2960}
+Google Nexus 5X | Android | {density=2.5, width=1080, height=1920}
+LG V30 | Android | {density=3.0, width=1440, height=2880}
+Huawei P20 Pro | Android | {density=3.0, width=1080, height=2240}
+Sony Xperia Z5 | Android | {density=3.0, width=1080, height=1920}
+Samsung Galaxy S8 | Android | {density=3.0, width=1440, height=2960}
+HTC One M8 | Android | {density=3.0, width=1080, height=1920}
+Motorola Moto X (2nd Gen) | Android | {density=3.0, width=1080, height=1920}
+Nokia 6.1 | Android | {density=2.5, width=1080, height=1920}
+Asus Zenfone 3 | Android | {density=3.0, width=1080, height=1920}
 Samsung Galaxy S22 | Android | {density=3.0, width=1080, height=2400}
 Xiaomi Redmi Note 11 | Android | {density=2.5, width=1080, height=2400}
 Google Pixel 7 | Android | {density=2.8, width=1080, height=2400}
