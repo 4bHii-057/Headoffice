@@ -1,4 +1,62 @@
 Samsung Galaxy S10 | Android | {density=3.0, width=1440, height=3040}
+Google Pixel 4 | Android | {density=2.5, width=1080, height=2280}
+OnePlus 8 | Android | {density=3.0, width=1080, height=2400}
+Xiaomi Mi 10 | Android | {density=3.0, width=1080, height=2340}
+Huawei P30 Pro | Android | {density=3.0, width=1440, height=3120}
+Sony Xperia 1 | Android | {density=3.0, width=1440, height=3840}
+LG G8 ThinQ | Android | {density=3.0, width=1440, height=3120}
+Nokia 8.3 5G | Android | {density=2.5, width=1080, height=2400}
+Motorola Edge | Android | {density=3.0, width=1080, height=2340}
+Oppo Find X2 | Android | {density=3.0, width=1440, height=3168}
+Samsung Galaxy Note 10 | Android | {density=3.0, width=1440, height=3040}
+Google Pixel 5 | Android | {density=2.5, width=1080, height=2340}
+OnePlus Nord | Android | {density=2.5, width=1080, height=2400}
+Xiaomi Redmi Note 9 Pro | Android | {density=2.0, width=1080, height=2400}
+Huawei Mate 30 Pro | Android | {density=3.0, width=1176, height=2400}
+Sony Xperia 5 II | Android | {density=3.0, width=1080, height=2520}
+Realme X2 Pro | Android | {density=3.0, width=1440, height=3120}
+Vivo V20 Pro | Android | {density=2.5, width=1080, height=2400}
+Asus ROG Phone 3 | Android | {density=3.0, width=1080, height=2640}
+Samsung Galaxy A52 | Android | {density=2.5, width=1080, height=2400}
+Nokia 7.2 | Android | {density=2.5, width=1080, height=2280}
+Motorola Moto G Power (2021) | Android | {density=2.0, width=720, height=1600}
+Oppo Reno 4 Pro | Android | {density=3.0, width=1080, height=2400}
+Xiaomi Poco F2 Pro | Android | {density=3.0, width=1080, height=2400}
+Google Pixel 6 | Android | {density=3.0, width=1080, height=2400}
+Samsung Galaxy Z Fold 2 | Android | {density=2.5, width=1768, height=2208}
+Huawei P40 Pro | Android | {density=3.0, width=1200, height=2640}
+Samsung Galaxy S21 | Android | {density=3.0, width=2400, height=1080}
+OnePlus 9 | Android | {density=3.0, width=2400, height=1080}
+Xiaomi Mi 11 | Android | {density=3.0, width=1440, height=3200}
+Google Pixel 6 Pro | Android | {density=3.0, width=1440, height=3120}
+Sony Xperia 10 II | Android | {density=2.5, width=1080, height=2520}
+Nokia 5.4 | Android | {density=2.0, width=720, height=1560}
+Motorola Moto G Stylus (2021) | Android | {density=2.0, width=1080, height=2400}
+Oppo A74 5G | Android | {density=2.5, width=1080, height=2400}
+Vivo X60 Pro | Android | {density=3.0, width=1080, height=2400}
+Asus Zenfone 8 | Android | {density=3. 0, width=1080, height=2400}
+Samsung Galaxy A72 | Android | {density=2.5, width=1080, height=2400}
+Google Pixel 5a | Android | {density=2.5, width=1080, height=2400}
+OnePlus 9R | Android | {density=3.0, width=1080, height=2400}
+Xiaomi Redmi Note 10 Pro | Android | {density=2.0, width=1080, height=2400}
+Huawei Nova 8 Pro | Android | {density=3.0, width=1200, height=2652}
+Sony Xperia 1 III | Android | {density=3.0, width=1644, height=3840}
+Nokia X20 | Android | {density=2.5, width=1080, height=2400}
+Motorola Edge 20 | Android | {density=3.0, width=1080, height=2400}
+Oppo Find X3 Pro | Android | {density=3.0, width=1440, height=3216}
+Vivo V21 5G | Android | {density=2.5, width=1080, height=2400}
+Asus ROG Phone 5 | Android | {density=3.0, width=1080, height=2448}
+Samsung Galaxy Z Flip 3 | Android | {density=2.5, width=2640, height=1080}
+Google Pixel 4a 5G | Android | {density=2.5, width=1080, height=2400}
+OnePlus Nord CE 5G | Android | {density=2.5, width=1080, height=2400}
+Xiaomi Mi 11 Lite | Android | {density=2.0, width=1080, height=2400}
+Huawei P50 Pro | Android | {density=3.0, width=1228, height=2700}
+Sony Xperia 5 III | Android | {density=3.0, width=1080, height=2520}
+Nokia G50 | Android | {density=2.0, width=720, height=1600}
+Motorola Moto G60 | Android | {density=2.0, width=1080, height=2460}
+Oppo A94 | Android | {density=2.5, width=1080, height=2400}
+Vivo Y73 | Android | {density=2.5, width=1080, height=2400}
+Samsung Galaxy S10 | Android | {density=3.0, width=1440, height=3040}
 Google Pixel 5 | Android | {density=2.7, width=1080, height=2340}
 OnePlus 8T | Android | {density=2.9, width=1080, height=2400}
 Xiaomi Mi 10 | Android | {density=2.8, width=1080, height=2340}
